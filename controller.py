@@ -92,7 +92,8 @@ class Controller(QObject):
         self.enumeration = {
             'language': {
                 'cs_CZ': 'Czech',
-                'en_US': 'English'
+                'en_US': 'English',
+                'fr_FR': 'Français'
             },
             'printer': {
                 'i3': 'i3',

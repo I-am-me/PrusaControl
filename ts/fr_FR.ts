@@ -6,12 +6,12 @@
     <message>
         <location filename="gui.py" line="453"/>
         <source>PrusaControl version is </source>
-        <translation type="obsolete">La version de PrusaControl est </translation>
+        <translation type="obsolete">Vrsion de PrusaControl: </translation>
     </message>
     <message>
         <location filename="gui.py" line="454"/>
         <source>Slic3r engine version is </source>
-        <translation type="obsolete">La version du moteur Slic3r</translation>
+        <translation type="obsolete">Version du moteur Slic3r: </translation>
     </message>
 </context>
 <context>
@@ -62,7 +62,7 @@
     <message>
         <location filename="controller.py" line="241"/>
         <source>Object </source>
-        <translation>Objet</translation>
+        <translation>L'objet</translation>
     </message>
     <message>
         <location filename="controller.py" line="242"/>
@@ -125,7 +125,7 @@
     <message>
         <location filename="gui.py" line="599"/>
         <source>Update</source>
-        <translation>Mise à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
 </context>
 <context>
@@ -133,12 +133,12 @@
     <message>
         <location filename="sceneRender.py" line="276"/>
         <source>Scale tool</source>
-        <translation>Outil d'échelle</translation>
+        <translation>Outil de mise à l'échelle</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="284"/>
         <source>Place on face tool</source>
-        <translation>Outil de placement sur la face</translation>
+        <translation>Outil placer sur la face</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="291"/>
@@ -178,7 +178,7 @@
     <message>
         <location filename="sceneRender.py" line="310"/>
         <source>Support tool</source>
-        <translation>Outil de supports</translation>
+        <translation>Outil support</translation>
     </message>
     <message>
         <location filename="sceneRender.py" line="326"/>
@@ -203,7 +203,7 @@
     <message>
         <location filename="sceneRender.py" line="807"/>
         <source>total info:</source>
-        <translation>informations totales:</translation>
+        <translation>informations complètes:</translation>
     </message>
 </context>
 <context>
@@ -322,7 +322,7 @@
     <message>
         <location filename="gui.py" line="1271"/>
         <source>Lock of scaling axis</source>
-        <translation>Verrouillage de l'axe de mise à l'échelle</translation>
+        <translation>Mise à l'échelle uniforme</translation>
     </message>
     <message>
         <location filename="gui.py" line="1274"/>
@@ -453,7 +453,7 @@
     <message>
         <location filename="gui.py" line="1613"/>
         <source>Generate scene with actual options to gcode file</source>
-        <translation>Générer un fichier gcode à partir des options actuelles</translation>
+        <translation>Générer un fichier G-Code à partir des options actuelles</translation>
     </message>
     <message>
         <location filename="gui.py" line="954"/>
@@ -468,7 +468,7 @@
     <message>
         <location filename="gui.py" line="1601"/>
         <source>Save generated gcode file</source>
-        <translation>Enregister le fichier gcode généré</translation>
+        <translation>Enregister le fichier G-Code généré</translation>
     </message>
     <message>
         <location filename="gui.py" line="1608"/>
@@ -478,7 +478,7 @@
     <message>
         <location filename="gui.py" line="1605"/>
         <source>Cancel of generating gcode file</source>
-        <translation>Annuler la création du fichier gcode</translation>
+        <translation>Annuler la création du fichier G-Code</translation>
     </message>
     <message>
         <location filename="gui.py" line="1263"/>
@@ -523,7 +523,7 @@
     <message>
         <location filename="gui.py" line="1321"/>
         <source>Gcode preview</source>
-        <translation>Aperçu du Gcode</translation>
+        <translation>Aperçu du G-Code</translation>
     </message>
     <message>
         <location filename="gui.py" line="1323"/>
@@ -608,12 +608,12 @@
     <message>
         <location filename="gui.py" line="1488"/>
         <source>GCode is in generating process.</source>
-        <translation>Le GCode est en cours de création.</translation>
+        <translation>Le G-Code est en cours de création.</translation>
     </message>
     <message>
         <location filename="gui.py" line="1476"/>
         <source>Do you want to cancel generating of GCode and exit?</source>
-        <translation>Voulez vous annuler la création du GCode et quitter?</translation>
+        <translation>Voulez vous annuler la création du G-Code et quitter?</translation>
     </message>
     <message>
         <location filename="gui.py" line="1500"/>
@@ -623,17 +623,17 @@
     <message>
         <location filename="gui.py" line="1489"/>
         <source>Do you want to cancel generating of GCode and load file?</source>
-        <translation>Voulez vous annuler la création du GCode et ouvrir un fichier?</translation>
+        <translation>Voulez vous annuler la création du G-Code et ouvrir un fichier?</translation>
     </message>
     <message>
         <location filename="gui.py" line="1501"/>
         <source>GCode file is in loading process.</source>
-        <translation>Chargement du fichier GCode.</translation>
+        <translation>Chargement du fichier G-Code.</translation>
     </message>
     <message>
         <location filename="gui.py" line="1502"/>
         <source>Do you want to cancel loading of GCode file and load this file?</source>
-        <translation>Voulez vous annuler le chargement du fichier GCode et ouvrir ce fichier?</translation>
+        <translation>Voulez vous annuler le chargement du fichier G-Code et ouvrir ce fichier?</translation>
     </message>
     <message>
         <location filename="gui.py" line="1513"/>
@@ -648,22 +648,22 @@
     <message>
         <location filename="gui.py" line="1515"/>
         <source>Do you want to clear scene and load GCode file?</source>
-        <translation>Voulez vous vider l'ensemble et charger un fichier GCode?</translation>
+        <translation>Voulez vous vider l'ensemble et charger un fichier G-Code?</translation>
     </message>
     <message>
         <location filename="gui.py" line="1526"/>
         <source>GCode is generated</source>
-        <translation>Le GCode est généré</translation>
+        <translation>Le G-Code est généré</translation>
     </message>
     <message>
         <location filename="gui.py" line="1527"/>
         <source>Scene is generated to GCode</source>
-        <translation>Le GCode de l'ensemble a été généré</translation>
+        <translation>Le G-Code de l'ensemble a été généré</translation>
     </message>
     <message>
         <location filename="gui.py" line="1528"/>
         <source>Do you want to close GCode preview and import new file?</source>
-        <translation>Voulez vous fermer l'aperçu du GCode et ouvrir un nouveau fichier?</translation>
+        <translation>Voulez vous fermer l'aperçu du G-Code et ouvrir un nouveau fichier?</translation>
     </message>
     <message>
         <location filename="gui.py" line="1539"/>
@@ -683,7 +683,7 @@
     <message>
         <location filename="gui.py" line="1609"/>
         <source>Cancel of saving gcode file</source>
-        <translation>Annuler l'enregistrement du fichier gcode</translation>
+        <translation>Annuler l'enregistrement du fichier G-Code</translation>
     </message>
     <message>
         <location filename="gui.py" line="1617"/>
@@ -708,12 +708,12 @@
     <message>
         <location filename="gui.py" line="1464"/>
         <source>Discard</source>
-        <translation>Annuler</translation>
+        <translation>Ignorer</translation>
     </message>
     <message>
         <location filename="gui.py" line="1390"/>
         <source>Import gcode file</source>
-        <translation>Ouvrir un fichier gcode</translation>
+        <translation>Ouvrir un fichier G-Code</translation>
     </message>
     <message>
         <location filename="gui.py" line="1402"/>
@@ -766,7 +766,7 @@
     <message>
         <location filename="gui.py" line="519"/>
         <source>Printer model</source>
-        <translation>Modèle d'imprimante</translation>
+        <translation>Modèle ed l'imprimante</translation>
     </message>
     <message>
         <location filename="gui.py" line="526"/>
@@ -840,7 +840,7 @@
     <message>
         <location filename="sceneData.py" line="312"/>
         <source>Object </source>
-        <translation type="obsolete">Objet</translation>
+        <translation type="obsolete">L'objet</translation>
     </message>
     <message>
         <location filename="sceneData.py" line="313"/>
@@ -853,7 +853,7 @@
     <message>
         <location filename="controller.py" line="416"/>
         <source>GCode saved</source>
-        <translation>GCode enregistré</translation>
+        <translation>G-Code enregistré</translation>
     </message>
     <message>
         <location filename="controller.py" line="800"/>
@@ -893,7 +893,7 @@
     <message>
         <location filename="controller.py" line="1761"/>
         <source>Exporting G-code to</source>
-        <translation type="obsolete">Exportation du G-code vers</translation>
+        <translation type="obsolete">Exportation du G-Code vers</translation>
     </message>
     <message>
         <location filename="controller.py" line="1762"/>
